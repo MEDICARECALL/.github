@@ -1,6 +1,9 @@
-# 메디케어 2025년 새싹 해커톤 AI 서비스 기획서
+### 메디케어 2025년 새싹 해커톤 AI 서비스 기획서
 
 🔗새싹 해커톤 AI 서비스 기획서 PDF 링크 https://github.com/MEDICARECALL/.github/blob/main/profile/%5B%EB%A9%94%EB%94%94%EC%BC%80%EC%96%B4%5D2025%EB%85%84%20%EC%83%88%EC%8B%B9%20%ED%95%B4%EC%BB%A4%ED%86%A4%20AI%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf
+
+### 🌐 메디케어콜 랜딩페이지 
+https://medicarecall.kr/
 
 ### 🩺 메디케어콜(MedicareCall)
 
